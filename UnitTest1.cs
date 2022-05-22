@@ -47,7 +47,7 @@ namespace AddTaskTests
 
         private const string _descriptiontext = "My name is Dmitry Lvov";
 
-        private const string _expectedstatus = "Состояние";
+        private const string _expectedstatus = "РЎРѕСЃС‚РѕСЏРЅРёРµ";
 
 
         [SetUp]
